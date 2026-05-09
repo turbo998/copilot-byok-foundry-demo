@@ -19,6 +19,7 @@
 | [05-demo-script.md](docs/05-demo-script.md) | 12 分钟 demo 演示脚本（5 段） |
 | [06-risks-and-open-questions.md](docs/06-risks-and-open-questions.md) | 已知风险、待验证事项、降级方案 |
 | [07-deliverables-checklist.md](docs/07-deliverables-checklist.md) | POC 完成后的交付物 checklist |
+| [IMPLEMENTATION-DAY-CHECKLIST.md](docs/IMPLEMENTATION-DAY-CHECKLIST.md) | 🔥 实施当天一页速查（T-7d / T-1d / T-30min / T-0 / 应急预案） |
 
 ## 已确认的关键决策
 
