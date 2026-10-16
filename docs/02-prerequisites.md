@@ -17,7 +17,7 @@
 | 项 | 要求 | 当前状态 | 备注 |
 |---|---|---|---|
 | Azure 订阅 | 有 owner / contributor | ✅ 现有订阅可用 | |
-| Foundry resource (新建) | `cpbyok-foundry` | 📋 待创建 | demo 专用，不复用 `qichen2-7212-resource` |
+| Foundry resource (新建) | `cpbyok-foundry` | 📋 待创建 | demo 专用，不复用 `<existing-foundry-resource>` |
 | Region 选定 | East US 2 / Sweden Central | ⚠️ 待验证 | 必须支持 Anthropic Claude serverless deployment |
 | Anthropic 模型 catalog 访问 | 已申请通过 | ⚠️ 需提前申请 | 首次需提交 use-case，~1 工作日审批 |
 | Foundry 配额 (Anthropic) | Tier 1+ | ⚠️ 待查 | 与 OpenAI 模型独立池 |

@@ -24,7 +24,7 @@
 ## 已确认的关键决策
 
 - ✅ **GitHub 角色**：当前账号（`turbo998`）是普通用户，非 Enterprise owner → BYOK 配置环节需协调 owner 操作或截图模拟
-- ✅ **Foundry resource**：新建专用资源（不复用现有 `qichen2-7212-resource`），demo 后可一键销毁
+- ✅ **Foundry resource**：新建专用资源（不复用现有 `<existing-foundry-resource>`），demo 后可一键销毁
 - ✅ **Region**：暂定 **East US 2**（待验证 Anthropic 模型可用性后定稿）
 - ✅ **命名前缀**：`cpbyok-`（copilot-byok 缩写）
 - ✅ **本仓库当前阶段**：仅放计划文档，不创建实际 Azure 资源 / 不写可执行脚本（脚本骨架放 `scripts/` 仅供后续实施时填充）
